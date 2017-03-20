@@ -1,0 +1,29 @@
+{
+  "name": "inspect_click",
+  "version": "1.0.0",
+  "description": "some thing to do with click ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyam0507/inspectClick.git"
+  },
+  "keywords": [
+    "click",
+    "javascript",
+    "event",
+    "syntheticevents"
+  ],
+  "author": "Satyam Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyam0507/inspectClick/issues"
+  },
+  "homepage": "https://github.com/satyam0507/inspectClick#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
